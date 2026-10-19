@@ -1,0 +1,6 @@
+{
+  "name": "SoundCraft Studio - On-Air Radio & Podcast Learning Hub",
+  "description": "เว็บแอปพลิเคชันมัลติมีเดีย On-Air Radio Studio เพื่อการเรียนรู้การจัดรายการวิทยุดิจิทัล การเขียนบท ผังรายการ และ AI Radio Assistant",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
